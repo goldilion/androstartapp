@@ -1,0 +1,3 @@
+rootProject.name = "StartAppSDK"
+include ':app'
+include ':AlienAdsV2'
