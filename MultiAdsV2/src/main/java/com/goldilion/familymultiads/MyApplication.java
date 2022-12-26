@@ -43,7 +43,7 @@ public class MyApplication extends Application {
                 .build(this, AppsConfig.ANALYSKEY);
 
         sdkads = new InitializeAlienAds(this);
-        alienOpenAds = new AndroAdsOpenAds(this);
+//        alienOpenAds = new AndroAdsOpenAds(this);
         notif = new AndroAdsNotif(this);
 
     }
