@@ -7,11 +7,10 @@ import android.os.Handler;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.goldilion.startapp.AndroAdsOpenAds;
-import com.goldilion.startapp.AndroAdsInitialize;
-import com.goldilion.app.R;
-import com.goldilion.startapp.interfaces.open.OnLoadOpenAppAdmob;
-import com.goldilion.startapp.interfaces.open.OnShowOpenAppAdmob;
+import com.goldilion.familymultiads.AndroAdsOpenAds;
+import com.goldilion.familymultiads.AndroAdsInitialize;
+import com.goldilion.familymultiads.interfaces.open.OnLoadOpenAppAdmob;
+import com.goldilion.familymultiads.interfaces.open.OnShowOpenAppAdmob;
 import com.goldilion.sdkads.config.InitializeAlienAds;
 
 @SuppressLint("CustomSplashScreen")

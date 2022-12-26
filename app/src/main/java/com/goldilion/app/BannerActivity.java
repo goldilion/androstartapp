@@ -9,9 +9,8 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.RelativeLayout;
 
-import com.goldilion.startapp.AndroAdsBanner;
-import com.goldilion.startapp.AndroAdsMediumBanner;
-import com.goldilion.app.R;
+import com.goldilion.familymultiads.AndroAdsBanner;
+import com.goldilion.familymultiads.AndroAdsMediumBanner;
 
 public class BannerActivity extends AppCompatActivity {
 

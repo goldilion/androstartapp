@@ -14,11 +14,10 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
-import com.goldilion.startapp.AndroAdsGDPR;
-import com.goldilion.startapp.AndroAdsInitialize;
-import com.goldilion.startapp.AndroAdsIntertitial;
-import com.goldilion.startapp.AndroAdsReward;
-import com.goldilion.app.R;
+import com.goldilion.familymultiads.AndroAdsGDPR;
+import com.goldilion.familymultiads.AndroAdsInitialize;
+import com.goldilion.familymultiads.AndroAdsIntertitial;
+import com.goldilion.familymultiads.AndroAdsReward;
 import com.goldilion.sdkads.config.AppPromote;
 import com.goldilion.sdkads.config.InitializeAlienAds;
 

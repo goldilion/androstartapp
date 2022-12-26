@@ -9,8 +9,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.RelativeLayout;
 
-import com.goldilion.startapp.AndroAdsNative;
-import com.goldilion.app.R;
+import com.goldilion.familymultiads.AndroAdsNative;
 
 public class NativeActivity extends AppCompatActivity {
 
