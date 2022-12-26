@@ -2399,13 +2399,13 @@ public class AndroAdsReward {
     public static void ShowRewardUnity(Activity activity, String selecBackuptAds, String idReward, String idBackupReward) {
     }
 
-//    public static void ShowRewardStartApp(Activity activity, String selecBackuptAds, String idReward, String idBackupReward) {
-//        try {
-//            if (rewardedVideo.isReady()) {
-//                rewardedVideo.showAd();
-//                LoadRewardStartApp(activity, selecBackuptAds, idReward, idBackupReward);
-//            } else {
-//                switch (selecBackuptAds) {
+    public static void ShowRewardStartApp(Activity activity, String selecBackuptAds, String idReward, String idBackupReward) {
+        try {
+            if (rewardedVideo.isReady()) {
+                rewardedVideo.showAd();
+                LoadRewardStartApp(activity, selecBackuptAds, idReward, idBackupReward);
+            } else {
+                switch (selecBackuptAds) {
 //                    case "APPLOVIN-M":
 //                        if (rewardedAd.isReady()) {
 //                            rewardedAd.showAd();
@@ -2467,36 +2467,36 @@ public class AndroAdsReward {
 //                            });
 //                        }
 //                        break;
-//                    case "ALIEN-V":
-//                        AlienViewAds.ShowRewards();
-//                        AlienViewAds.onShowRewardsView = new OnShowRewardsView() {
-//                            @Override
-//                            public void onAdSuccess() {
-//                                if (onShowRewardsAlienView != null) {
-//                                    onShowRewardsAlienView.onAdSuccess();
-//                                }
-//                                unlockreward = true;
-//                            }
-//
-//                            @Override
-//                            public void onAdFailedShow() {
-//                                if (onShowRewardsAlienView != null) {
-//                                    onShowRewardsAlienView.onAdSuccess();
-//                                }
-//                            }
-//                        };
-//                        break;
-//                    case "ALIEN-M":
-//                        AlienMediationAds.ShowReward();
-//                        break;
-//                }
-//
-//            }
-//        } catch (Exception e) {
-//            e.printStackTrace();
-//        }
-//        LoadRewardStartApp(activity, selecBackuptAds, idReward, idBackupReward);
-//    }
+                    case "ALIEN-V":
+                        AlienViewAds.ShowRewards();
+                        AlienViewAds.onShowRewardsView = new OnShowRewardsView() {
+                            @Override
+                            public void onAdSuccess() {
+                                if (onShowRewardsAlienView != null) {
+                                    onShowRewardsAlienView.onAdSuccess();
+                                }
+                                unlockreward = true;
+                            }
+
+                            @Override
+                            public void onAdFailedShow() {
+                                if (onShowRewardsAlienView != null) {
+                                    onShowRewardsAlienView.onAdSuccess();
+                                }
+                            }
+                        };
+                        break;
+                    case "ALIEN-M":
+                        AlienMediationAds.ShowReward();
+                        break;
+                }
+
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        LoadRewardStartApp(activity, selecBackuptAds, idReward, idBackupReward);
+    }
 
 //    public static void ShowRewardAlienView(Activity activity, String selecBackuptAds, String idReward, String idBackupReward) {
 //        try {
