@@ -9,31 +9,31 @@
         android:name="com.goldilion.familymultiads.MyApplication"
         >
 
-        <activity
-            android:name="com.ironsource.sdk.controller.ControllerActivity"
-            android:configChanges="orientation|screenSize"
-            android:hardwareAccelerated="true" />
-        <activity
-            android:name="com.ironsource.sdk.controller.InterstitialActivity"
-            android:configChanges="orientation|screenSize"
-            android:hardwareAccelerated="true"
-            android:theme="@android:style/Theme.Translucent" />
-        <activity
-            android:name="com.ironsource.sdk.controller.OpenUrlActivity"
-            android:configChanges="orientation|screenSize"
-            android:hardwareAccelerated="true"
-            android:theme="@android:style/Theme.Translucent" />
-        <provider
-            android:authorities="${applicationId}.IronsourceLifecycleProvider"
-            android:name="com.ironsource.lifecycle.IronsourceLifecycleProvider" />
+<!--        <activity-->
+<!--            android:name="com.ironsource.sdk.controller.ControllerActivity"-->
+<!--            android:configChanges="orientation|screenSize"-->
+<!--            android:hardwareAccelerated="true" />-->
+<!--        <activity-->
+<!--            android:name="com.ironsource.sdk.controller.InterstitialActivity"-->
+<!--            android:configChanges="orientation|screenSize"-->
+<!--            android:hardwareAccelerated="true"-->
+<!--            android:theme="@android:style/Theme.Translucent" />-->
+<!--        <activity-->
+<!--            android:name="com.ironsource.sdk.controller.OpenUrlActivity"-->
+<!--            android:configChanges="orientation|screenSize"-->
+<!--            android:hardwareAccelerated="true"-->
+<!--            android:theme="@android:style/Theme.Translucent" />-->
+<!--        <provider-->
+<!--            android:authorities="${applicationId}.IronsourceLifecycleProvider"-->
+<!--            android:name="com.ironsource.lifecycle.IronsourceLifecycleProvider" />-->
 
         <meta-data
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
 
-        <activity
-            android:name="com.google.android.gms.ads.AdActivity"
-            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize" />
+<!--        <activity-->
+<!--            android:name="com.google.android.gms.ads.AdActivity"-->
+<!--            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize" />-->
 
 
     </application>
