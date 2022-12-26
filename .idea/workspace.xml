@@ -9,90 +9,170 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77118886-033b-4a39-8f09-dae080fb2f73" name="Changes" comment="init">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="4a5041b9-f8f2-4d51-a5b8-1153bbdffee1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/build/generated/source/buildConfig/debug/com/goldilion/startapp/BuildConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/build/generated/source/buildConfig/debug/com/goldilion/familymultiads/BuildConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/config/InitializeAlienAds.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/config/InitializeAlienAds.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/AndroAdsBanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/AndroAdsBanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/AndroAdsGDPR.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/AndroAdsGDPR.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/AndroAdsInitialize.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/AndroAdsInitialize.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/AndroAdsIntertitial.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/AndroAdsIntertitial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/AndroAdsMediumBanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/AndroAdsMediumBanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/AndroAdsNative.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/AndroAdsNative.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/AndroAdsOpenAds.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/AndroAdsOpenAds.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/AndroAdsReward.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/AndroAdsReward.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/MyApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/MyApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/banner/OnLoadBannerAdmob.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/banner/OnLoadBannerAdmob.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/banner/OnLoadBannerAlienMediation.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/banner/OnLoadBannerAlienMediation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/banner/OnLoadBannerAlienView.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/banner/OnLoadBannerAlienView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/banner/OnLoadBannerApplovinDiscovery.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/banner/OnLoadBannerApplovinDiscovery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/banner/OnLoadBannerApplovinMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/banner/OnLoadBannerApplovinMax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/banner/OnLoadBannerFacebook.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/banner/OnLoadBannerFacebook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/banner/OnLoadBannerGoogle.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/banner/OnLoadBannerGoogle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/banner/OnLoadBannerIronSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/banner/OnLoadBannerIronSource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/banner/OnLoadBannerStartApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/banner/OnLoadBannerStartApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/interstitial/admob/OnFullScreenContentCallbackAdmob.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/interstitial/admob/OnFullScreenContentCallbackAdmob.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/interstitial/load/OnLoadInterstitialAdmob.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/interstitial/load/OnLoadInterstitialAdmob.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/interstitial/load/OnLoadInterstitialAlienMediation.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/interstitial/load/OnLoadInterstitialAlienMediation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/interstitial/load/OnLoadInterstitialAlienView.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/interstitial/load/OnLoadInterstitialAlienView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/interstitial/load/OnLoadInterstitialApplovinDiscovery.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/interstitial/load/OnLoadInterstitialApplovinDiscovery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/interstitial/load/OnLoadInterstitialApplovinMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/interstitial/load/OnLoadInterstitialApplovinMax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/interstitial/load/OnLoadInterstitialFacebook.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/interstitial/load/OnLoadInterstitialFacebook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/interstitial/load/OnLoadInterstitialGoogle.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/interstitial/load/OnLoadInterstitialGoogle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/interstitial/load/OnLoadInterstitialIronSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/interstitial/load/OnLoadInterstitialIronSource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/interstitial/load/OnLoadInterstitialStartApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/interstitial/load/OnLoadInterstitialStartApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/interstitial/show/OnShowInterstitialAdmob.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/interstitial/show/OnShowInterstitialAdmob.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/interstitial/show/OnShowInterstitialAlienMediation.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/interstitial/show/OnShowInterstitialAlienMediation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/interstitial/show/OnShowInterstitialAlienView.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/interstitial/show/OnShowInterstitialAlienView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/interstitial/show/OnShowInterstitialApplovinDiscovery.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/interstitial/show/OnShowInterstitialApplovinDiscovery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/interstitial/show/OnShowInterstitialApplovinMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/interstitial/show/OnShowInterstitialApplovinMax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/interstitial/show/OnShowInterstitialFacebook.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/interstitial/show/OnShowInterstitialFacebook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/interstitial/show/OnShowInterstitialGoogle.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/interstitial/show/OnShowInterstitialGoogle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/interstitial/show/OnShowInterstitialIronSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/interstitial/show/OnShowInterstitialIronSource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/interstitial/show/OnShowInterstitialStartApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/interstitial/show/OnShowInterstitialStartApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/natives/OnLoadMediumNativesAdmob.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/natives/OnLoadMediumNativesAdmob.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/natives/OnLoadMediumNativesAlien.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/natives/OnLoadMediumNativesAlien.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/natives/OnLoadMediumNativesApplovinMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/natives/OnLoadMediumNativesApplovinMax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/natives/OnLoadMediumNativesFacebook.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/natives/OnLoadMediumNativesFacebook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/natives/OnLoadMediumNativesStartApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/natives/OnLoadMediumNativesStartApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/natives/OnLoadSmallNativesAdmob.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/natives/OnLoadSmallNativesAdmob.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/natives/OnLoadSmallNativesAlien.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/natives/OnLoadSmallNativesAlien.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/natives/OnLoadSmallNativesApplovinMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/natives/OnLoadSmallNativesApplovinMax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/natives/OnLoadSmallNativesFacebook.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/natives/OnLoadSmallNativesFacebook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/natives/OnLoadSmallNativesStartApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/natives/OnLoadSmallNativesStartApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/open/OnLoadOpenAppAdmob.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/open/OnLoadOpenAppAdmob.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/open/OnShowOpenAppAdmob.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/open/OnShowOpenAppAdmob.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/rewards/load/OnLoadRewardsAdmob.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/rewards/load/OnLoadRewardsAdmob.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/rewards/load/OnLoadRewardsAlienMediation.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/rewards/load/OnLoadRewardsAlienMediation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/rewards/load/OnLoadRewardsAlienView.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/rewards/load/OnLoadRewardsAlienView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/rewards/load/OnLoadRewardsApplovinDiscovery.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/rewards/load/OnLoadRewardsApplovinDiscovery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/rewards/load/OnLoadRewardsApplovinMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/rewards/load/OnLoadRewardsApplovinMax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/rewards/load/OnLoadRewardsGoogle.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/rewards/load/OnLoadRewardsGoogle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/rewards/load/OnLoadRewardsIronSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/rewards/load/OnLoadRewardsIronSource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/rewards/load/OnLoadRewardsStartApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/rewards/load/OnLoadRewardsStartApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/rewards/show/OnShowRewardsAdmob.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/rewards/show/OnShowRewardsAdmob.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/rewards/show/OnShowRewardsAlienMedition.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/rewards/show/OnShowRewardsAlienMedition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/rewards/show/OnShowRewardsAlienView.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/rewards/show/OnShowRewardsAlienView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/rewards/show/OnShowRewardsApplovinDiscovery.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/rewards/show/OnShowRewardsApplovinDiscovery.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/interfaces/rewards/show/OnShowRewardsGoogle.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/rewards/show/OnShowRewardsGoogle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/build/generated/source/buildConfig/debug/com/goldilion/familymultiads/BuildConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/consumer-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/androidTest/java/com/aliendroid/alienads/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/AndroAdsBanner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/AndroAdsGDPR.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/AndroAdsInitialize.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/AndroAdsIntertitial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/AndroAdsMediumBanner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/AndroAdsNative.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/AndroAdsOpenAds.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/AndroAdsReward.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/MyApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/banner/OnLoadBannerAdmob.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/banner/OnLoadBannerAlienMediation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/banner/OnLoadBannerAlienView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/banner/OnLoadBannerApplovinDiscovery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/banner/OnLoadBannerApplovinMax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/banner/OnLoadBannerFacebook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/banner/OnLoadBannerGoogle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/banner/OnLoadBannerIronSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/banner/OnLoadBannerStartApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/interstitial/admob/OnFullScreenContentCallbackAdmob.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/interstitial/load/OnLoadInterstitialAdmob.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/interstitial/load/OnLoadInterstitialAlienMediation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/interstitial/load/OnLoadInterstitialAlienView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/interstitial/load/OnLoadInterstitialApplovinDiscovery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/interstitial/load/OnLoadInterstitialApplovinMax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/interstitial/load/OnLoadInterstitialFacebook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/interstitial/load/OnLoadInterstitialGoogle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/interstitial/load/OnLoadInterstitialIronSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/interstitial/load/OnLoadInterstitialStartApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/interstitial/show/OnShowInterstitialAdmob.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/interstitial/show/OnShowInterstitialAlienMediation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/interstitial/show/OnShowInterstitialAlienView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/interstitial/show/OnShowInterstitialApplovinDiscovery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/interstitial/show/OnShowInterstitialApplovinMax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/interstitial/show/OnShowInterstitialFacebook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/interstitial/show/OnShowInterstitialGoogle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/interstitial/show/OnShowInterstitialIronSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/interstitial/show/OnShowInterstitialStartApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/natives/OnLoadMediumNativesAdmob.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/natives/OnLoadMediumNativesAlien.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/natives/OnLoadMediumNativesApplovinMax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/natives/OnLoadMediumNativesFacebook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/natives/OnLoadMediumNativesStartApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/natives/OnLoadSmallNativesAdmob.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/natives/OnLoadSmallNativesAlien.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/natives/OnLoadSmallNativesApplovinMax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/natives/OnLoadSmallNativesFacebook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/natives/OnLoadSmallNativesStartApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/open/OnLoadOpenAppAdmob.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/open/OnShowOpenAppAdmob.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/rewards/load/OnLoadRewardsAdmob.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/rewards/load/OnLoadRewardsAlienMediation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/rewards/load/OnLoadRewardsAlienView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/rewards/load/OnLoadRewardsApplovinDiscovery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/rewards/load/OnLoadRewardsApplovinMax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/rewards/load/OnLoadRewardsGoogle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/rewards/load/OnLoadRewardsIronSource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/rewards/load/OnLoadRewardsStartApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/rewards/show/OnShowRewardsAdmob.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/rewards/show/OnShowRewardsAlienMedition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/rewards/show/OnShowRewardsAlienView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/rewards/show/OnShowRewardsApplovinDiscovery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/familymultiads/interfaces/rewards/show/OnShowRewardsGoogle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/config/AppPromote.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/config/InitializeAlienAds.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/interfaces/OnClosed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/interfaces/OnConnectedListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/interfaces/OnLoadBannerMediation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/interfaces/OnLoadBannerView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/interfaces/OnLoadInterstitialMediation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/interfaces/OnLoadInterstitialView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/interfaces/OnLoadNative.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/interfaces/OnLoadRewardsMediation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/interfaces/OnLoadRewardsView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/interfaces/OnOpenViewAdListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/interfaces/OnPromoteAppListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/interfaces/OnShowInterstitial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/interfaces/OnShowInterstitialView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/interfaces/OnShowRewards.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/interfaces/OnShowRewardsView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/type/mediation/AlienMediationAds.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/type/view/AlienViewAds.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/res/anim/bottom_down.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/res/anim/bottom_up.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/res/anim/bounce.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/res/anim/slide_down.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/res/anim/slide_up.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/res/drawable/open.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/res/drawable/round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/res/drawable/round_black.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/res/drawable/seek_oval_red.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/res/drawable/seekbar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/res/drawable/sp_body_interstitial.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/res/drawable/sp_body_open.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/res/drawable/sp_button_open.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/res/drawable/sp_progress.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/res/drawable/sp_rectangle_line2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/res/drawable/stroke.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/res/drawable/wall_stuff_native.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/res/layout/admob_big_native.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/res/layout/admob_small_native.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/res/layout/alien_big_native.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/res/layout/alien_small_native.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/res/layout/fan_medium_native.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/res/layout/fan_small_native.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/res/layout/interstitial.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/res/layout/max_big_native.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/res/layout/max_small_native.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/res/layout/openads.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/res/layout/rewards.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/res/layout/small_banner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/res/layout/startapp_medium_native.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/res/layout/startapp_small_native.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/res/raw/ads.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/res/values/attrs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/res/values/style.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/test/java/com/aliendroid/alienads/ExampleUnitTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/goldilion/app/BuildConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/goldilion/app/BuildConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/goldilion/app/BannerActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/goldilion/app/BannerActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/goldilion/app/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/goldilion/app/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/goldilion/app/NativeActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/goldilion/app/NativeActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/goldilion/app/SplashActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/goldilion/app/SplashActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/goldilion/app/BuildConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/release/app-release.aab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/goldilion/app/BannerActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/goldilion/app/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/goldilion/app/MediationAdsActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/goldilion/app/NativeActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/goldilion/app/Settings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/goldilion/app/SplashActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/goldilion/app/ViewAdsActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_android_black_24dp.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_android_black_24dp.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_banner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_banner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_mediation_ads.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_mediation_ads.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_native.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_native.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_splash.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_splash.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_view_ads.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_view_ads.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/xml/network_config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/xml/network_config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="ChangesViewManager">
-    <option name="groupingKeys">
-      <option value="module" />
-    </option>
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[/Users/andywahyudi/.android/avd/Pixel_3a_API_31_arm64-v8a.avd]" />
   <component name="ExternalProjectsData">
@@ -100,59 +180,26 @@
       <ProjectState />
     </projectState>
   </component>
-  <component name="ExternalProjectsManager">
-    <system id="GRADLE">
-      <state>
-        <projects_view>
-          <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="StartAppSDK" type="f1a62948:ProjectNode" />
-              </path>
-            </expand>
-            <select />
-          </tree_state>
-        </projects_view>
-      </state>
-    </system>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GitSEFilterConfiguration">
-    <file-type-list>
-      <filtered-out-file-type name="LOCAL_BRANCH" />
-      <filtered-out-file-type name="REMOTE_BRANCH" />
-      <filtered-out-file-type name="TAG" />
-      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
-    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2JQxFS3pCDFB5IDjYlJN39prNYH" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2JROwnzSXcUpB6xyEjSlokrn42P" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="android-custom-view/Users/andywahyudi/Android/Libraries/StartAppSDK/MultiAdsV2/src/main/java/com/goldilion/sdkads/layout/BannerView.java_SELECTED" value="BannerView" />
     <property name="cidr.known.project.marker" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.17" />
-    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
-      <module name="StartAppSDK.app.main" />
+      <module name="MultiAds.app.main" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
@@ -214,86 +261,24 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="77118886-033b-4a39-8f09-dae080fb2f73" name="Changes" comment="" />
-      <created>1672024005883</created>
+      <changelist id="4a5041b9-f8f2-4d51-a5b8-1153bbdffee1" name="Changes" comment="" />
+      <created>1672037670235</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1672024005883</updated>
+      <updated>1672037670235</updated>
     </task>
-    <task id="LOCAL-00001" summary="init">
-      <created>1672026334571</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1672026334571</updated>
-    </task>
-    <task id="LOCAL-00002" summary="init">
-      <created>1672026446436</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1672026446436</updated>
-    </task>
-    <task id="LOCAL-00003" summary="init">
-      <created>1672027629660</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1672027629660</updated>
-    </task>
-    <task id="LOCAL-00004" summary="init">
-      <created>1672027649483</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1672027649483</updated>
-    </task>
-    <task id="LOCAL-00005" summary="init">
-      <created>1672027852468</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1672027852469</updated>
-    </task>
-    <task id="LOCAL-00006" summary="init">
-      <created>1672027864070</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1672027864070</updated>
-    </task>
-    <task id="LOCAL-00007" summary="init">
-      <created>1672027883175</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1672027883175</updated>
-    </task>
-    <task id="LOCAL-00008" summary="bug-fixes">
-      <created>1672031387867</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1672031387867</updated>
-    </task>
-    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="init" />
-    <MESSAGE value="bug-fixes" />
-    <option name="LAST_COMMIT_MESSAGE" value="bug-fixes" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-field">
+          <url>file://$PROJECT_DIR$/MultiAdsV2/src/main/java/com/goldilion/familymultiads/AndroAdsMediumBanner.java</url>
+          <line>66</line>
+          <properties field="onLoadBannerIronSource" class="com.goldilion.familymultiads.AndroAdsMediumBanner" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
