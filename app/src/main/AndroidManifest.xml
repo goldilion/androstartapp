@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.goldilion.app">
+    package="com.goldilion.myapplication">
 
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.INTERNET" />
@@ -18,27 +18,27 @@
         android:usesCleartextTraffic="true"
         tools:targetApi="m">
         <activity
-            android:name="com.goldilion.app.MediationAdsActivity"
+            android:name="com.goldilion.myapplication.MediationAdsActivity"
             android:screenOrientation="portrait"
             android:exported="false" />
         <activity
-            android:name="com.goldilion.app.ViewAdsActivity"
+            android:name="com.goldilion.myapplication.ViewAdsActivity"
             android:screenOrientation="portrait"
             android:exported="false" />
         <activity
-            android:name="com.goldilion.app.NativeActivity"
+            android:name="com.goldilion.myapplication.NativeActivity"
             android:screenOrientation="portrait"
             android:exported="false" />
         <activity
-            android:name="com.goldilion.app.BannerActivity"
+            android:name="com.goldilion.myapplication.BannerActivity"
             android:screenOrientation="portrait"
             android:exported="false" />
         <activity
-            android:name="com.goldilion.app.MainActivity"
+            android:name="com.goldilion.myapplication.MainActivity"
             android:screenOrientation="portrait"
             android:exported="false" />
         <activity
-            android:name="com.goldilion.app.SplashActivity"
+            android:name="com.goldilion.myapplication.SplashActivity"
             android:screenOrientation="portrait"
             android:exported="true">
             <intent-filter>
