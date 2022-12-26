@@ -1,4 +1,4 @@
-package com.aliendroid.sdkads.interfaces;
+package com.goldilion.sdkads.interfaces;
 
 
 public interface OnConnectedListener {

@@ -1,18 +1,18 @@
-package com.aliendroid.alienads;
+package com.goldilion.startapp;
 
 import android.app.Activity;
 import android.view.View;
 import android.widget.RelativeLayout;
 
-import com.aliendroid.alienads.interfaces.banner.OnLoadBannerAdmob;
-import com.aliendroid.alienads.interfaces.banner.OnLoadBannerAlienMediation;
-import com.aliendroid.alienads.interfaces.banner.OnLoadBannerAlienView;
-import com.aliendroid.alienads.interfaces.banner.OnLoadBannerApplovinDiscovery;
-import com.aliendroid.alienads.interfaces.banner.OnLoadBannerApplovinMax;
-import com.aliendroid.alienads.interfaces.banner.OnLoadBannerFacebook;
-import com.aliendroid.alienads.interfaces.banner.OnLoadBannerGoogle;
-import com.aliendroid.alienads.interfaces.banner.OnLoadBannerIronSource;
-import com.aliendroid.alienads.interfaces.banner.OnLoadBannerStartApp;
+import com.goldilion.startapp.interfaces.banner.OnLoadBannerAdmob;
+import com.goldilion.startapp.interfaces.banner.OnLoadBannerAlienMediation;
+import com.goldilion.startapp.interfaces.banner.OnLoadBannerAlienView;
+import com.goldilion.startapp.interfaces.banner.OnLoadBannerApplovinDiscovery;
+import com.goldilion.startapp.interfaces.banner.OnLoadBannerApplovinMax;
+import com.goldilion.startapp.interfaces.banner.OnLoadBannerFacebook;
+import com.goldilion.startapp.interfaces.banner.OnLoadBannerGoogle;
+import com.goldilion.startapp.interfaces.banner.OnLoadBannerIronSource;
+import com.goldilion.startapp.interfaces.banner.OnLoadBannerStartApp;
 import com.startapp.sdk.ads.banner.BannerListener;
 import com.startapp.sdk.ads.banner.Mrec;
 

@@ -1,12 +1,12 @@
-package com.goldilion.startapp;
+package com.goldilion.app;
 
-import static com.goldilion.startapp.Settings.BackupIntertitial;
-import static com.goldilion.startapp.Settings.BackupReward;
-import static com.goldilion.startapp.Settings.Backup_Initialize;
-import static com.goldilion.startapp.Settings.MainIntertitial;
-import static com.goldilion.startapp.Settings.MainRewards;
-import static com.goldilion.startapp.Settings.Select_Backup_Ads;
-import static com.goldilion.startapp.Settings.Select_Main_Ads;
+import static com.goldilion.app.Settings.BackupIntertitial;
+import static com.goldilion.app.Settings.BackupReward;
+import static com.goldilion.app.Settings.Backup_Initialize;
+import static com.goldilion.app.Settings.MainIntertitial;
+import static com.goldilion.app.Settings.MainRewards;
+import static com.goldilion.app.Settings.Select_Backup_Ads;
+import static com.goldilion.app.Settings.Select_Main_Ads;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -18,10 +18,7 @@ import com.goldilion.startapp.AndroAdsGDPR;
 import com.goldilion.startapp.AndroAdsInitialize;
 import com.goldilion.startapp.AndroAdsIntertitial;
 import com.goldilion.startapp.AndroAdsReward;
-import com.goldilion.startapp.interfaces.interstitial.admob.OnFullScreenContentCallbackAdmob;
-import com.goldilion.startapp.interfaces.interstitial.load.OnLoadInterstitialAdmob;
-import com.goldilion.startapp.interfaces.interstitial.show.OnShowInterstitialAdmob;
-import com.goldilion.startapp.interfaces.rewards.load.OnLoadRewardsAdmob;
+import com.goldilion.app.R;
 import com.goldilion.sdkads.config.AppPromote;
 import com.goldilion.sdkads.config.InitializeAlienAds;
 

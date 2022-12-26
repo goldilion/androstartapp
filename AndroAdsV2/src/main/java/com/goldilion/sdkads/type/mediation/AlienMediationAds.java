@@ -1,15 +1,15 @@
-package com.aliendroid.sdkads.type.mediation;
+package com.goldilion.sdkads.type.mediation;
 
 import android.app.Activity;
 
 import android.widget.RelativeLayout;
 
-import com.aliendroid.sdkads.interfaces.OnLoadBannerMediation;
-import com.aliendroid.sdkads.interfaces.OnLoadInterstitialMediation;
-import com.aliendroid.sdkads.interfaces.OnLoadNative;
-import com.aliendroid.sdkads.interfaces.OnLoadRewardsMediation;
-import com.aliendroid.sdkads.interfaces.OnShowInterstitial;
-import com.aliendroid.sdkads.interfaces.OnShowRewards;
+import com.goldilion.sdkads.interfaces.OnLoadBannerMediation;
+import com.goldilion.sdkads.interfaces.OnLoadInterstitialMediation;
+import com.goldilion.sdkads.interfaces.OnLoadNative;
+import com.goldilion.sdkads.interfaces.OnLoadRewardsMediation;
+import com.goldilion.sdkads.interfaces.OnShowInterstitial;
+import com.goldilion.sdkads.interfaces.OnShowRewards;
 
 public class AlienMediationAds {
     public static OnLoadInterstitialMediation onLoadInterstitialMediation;

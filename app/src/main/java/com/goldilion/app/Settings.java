@@ -1,4 +1,4 @@
-package com.goldilion.startapp;
+package com.goldilion.app;
 
 public class Settings {
 

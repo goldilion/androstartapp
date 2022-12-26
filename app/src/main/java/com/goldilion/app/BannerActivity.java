@@ -1,17 +1,17 @@
-package com.goldilion.startapp;
+package com.goldilion.app;
 
-import static com.goldilion.startapp.Settings.BackupBanner;
-import static com.goldilion.startapp.Settings.MainBanner;
-import static com.goldilion.startapp.Settings.Select_Backup_Ads;
+import static com.goldilion.app.Settings.BackupBanner;
+import static com.goldilion.app.Settings.MainBanner;
+import static com.goldilion.app.Settings.Select_Backup_Ads;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 import android.widget.RelativeLayout;
 
-import com.aliendroid.alienads.AliendroidBanner;
-import com.aliendroid.alienads.AliendroidMediumBanner;
-import com.aliendroid.alienads.interfaces.banner.OnLoadBannerAdmob;
+import com.goldilion.startapp.AndroAdsBanner;
+import com.goldilion.startapp.AndroAdsMediumBanner;
+import com.goldilion.app.R;
 
 public class BannerActivity extends AppCompatActivity {
 
@@ -28,13 +28,13 @@ public class BannerActivity extends AppCompatActivity {
         /*
         Small Banner 320x50
          */
-        AliendroidBanner.SmallBannerStartApp(this, laySmallAds,Select_Backup_Ads,MainBanner,BackupBanner);
+        AndroAdsBanner.SmallBannerStartApp(this, laySmallAds,Select_Backup_Ads,MainBanner,BackupBanner);
 
 
         /*
         Medium Banner 300x250
          */
-        AliendroidMediumBanner.MediumBannerStartApp(this, layMediumAds,Select_Backup_Ads,MainBanner,BackupBanner);
+        AndroAdsMediumBanner.MediumBannerStartApp(this, layMediumAds,Select_Backup_Ads,MainBanner,BackupBanner);
 
 
     }

@@ -1,10 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77118886-033b-4a39-8f09-dae080fb2f73" name="Changes" comment="" />
+    <list default="true" id="77118886-033b-4a39-8f09-dae080fb2f73" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/AndroAdsV2/build/generated/source/buildConfig/debug/com/goldilion/startapp/BuildConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/goldilion/app/BuildConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/interfaces/OnClosed.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/interfaces/OnClosed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/interfaces/OnConnectedListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/interfaces/OnConnectedListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/interfaces/OnLoadBannerMediation.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/interfaces/OnLoadBannerMediation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/interfaces/OnLoadBannerView.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/interfaces/OnLoadBannerView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/interfaces/OnLoadInterstitialMediation.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/interfaces/OnLoadInterstitialMediation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/interfaces/OnLoadInterstitialView.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/interfaces/OnLoadInterstitialView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/interfaces/OnLoadNative.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/interfaces/OnLoadNative.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/interfaces/OnLoadRewardsMediation.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/interfaces/OnLoadRewardsMediation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/interfaces/OnLoadRewardsView.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/interfaces/OnLoadRewardsView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/interfaces/OnOpenViewAdListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/interfaces/OnOpenViewAdListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/interfaces/OnPromoteAppListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/interfaces/OnPromoteAppListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/interfaces/OnShowInterstitial.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/interfaces/OnShowInterstitial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/interfaces/OnShowInterstitialView.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/interfaces/OnShowInterstitialView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/interfaces/OnShowRewards.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/interfaces/OnShowRewards.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/interfaces/OnShowRewardsView.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/interfaces/OnShowRewardsView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/type/mediation/AlienMediationAds.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/type/mediation/AlienMediationAds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/type/view/AlienViewAds.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/sdkads/type/view/AlienViewAds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/AndroAdsBanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/AndroAdsBanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/AndroAdsMediumBanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/AndroAdsMediumBanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/AndroAdsNative.java" beforeDir="false" afterPath="$PROJECT_DIR$/AndroAdsV2/src/main/java/com/goldilion/startapp/AndroAdsNative.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/goldilion/startapp/BannerActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/goldilion/app/BannerActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/goldilion/startapp/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/goldilion/app/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/goldilion/startapp/MediationAdsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/goldilion/app/MediationAdsActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/goldilion/startapp/NativeActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/goldilion/app/NativeActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/goldilion/startapp/Settings.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/goldilion/app/Settings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/goldilion/startapp/SplashActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/goldilion/app/SplashActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/goldilion/startapp/ViewAdsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/goldilion/app/ViewAdsActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_banner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_banner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_native.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_native.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_view_ads.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_view_ads.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -169,7 +212,28 @@
       <option name="project" value="LOCAL" />
       <updated>1672027649483</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="init">
+      <created>1672027852468</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1672027852469</updated>
+    </task>
+    <task id="LOCAL-00006" summary="init">
+      <created>1672027864070</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1672027864070</updated>
+    </task>
+    <task id="LOCAL-00007" summary="init">
+      <created>1672027883175</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1672027883175</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

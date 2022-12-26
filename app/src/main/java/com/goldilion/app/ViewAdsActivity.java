@@ -1,15 +1,14 @@
-package com.goldilion.startapp;
-
-import static com.goldilion.startapp.Settings.AppIDViewAds;
+package com.goldilion.app;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 import android.view.View;
 
-import com.aliendroid.sdkads.config.AppPromote;
-import com.aliendroid.sdkads.interfaces.OnShowRewardsView;
-import com.aliendroid.sdkads.type.view.AlienViewAds;
+import com.goldilion.sdkads.config.AppPromote;
+import com.goldilion.sdkads.interfaces.OnShowRewardsView;
+import com.goldilion.sdkads.type.view.AlienViewAds;
+import com.goldilion.app.R;
 
 public class ViewAdsActivity extends AppCompatActivity {
       /*
@@ -21,14 +20,14 @@ public class ViewAdsActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_view_ads);
         AppPromote.initializeAppPromote(this);
-        AlienViewAds.Banner(ViewAdsActivity.this,findViewById(R.id.layAdsView),AppIDViewAds);
-        AlienViewAds.Interstitial(this,AppIDViewAds);
-        AlienViewAds.RewardsAds(this,AppIDViewAds);
+        AlienViewAds.Banner(ViewAdsActivity.this,findViewById(R.id.layAdsView), Settings.AppIDViewAds);
+        AlienViewAds.Interstitial(this, Settings.AppIDViewAds);
+        AlienViewAds.RewardsAds(this, Settings.AppIDViewAds);
 
     }
 
     public void OPENADS(View view){
-        AlienViewAds.OpenApp(ViewAdsActivity.this,AppIDViewAds);
+        AlienViewAds.OpenApp(ViewAdsActivity.this, Settings.AppIDViewAds);
 
 
     }

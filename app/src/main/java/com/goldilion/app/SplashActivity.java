@@ -1,7 +1,4 @@
-package com.goldilion.startapp;
-
-import static com.goldilion.startapp.Settings.Backup_Initialize;
-import static com.goldilion.startapp.Settings.Select_Backup_Ads;
+package com.goldilion.app;
 
 import android.annotation.SuppressLint;
 import android.content.Intent;
@@ -12,9 +9,10 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import com.goldilion.startapp.AndroAdsOpenAds;
 import com.goldilion.startapp.AndroAdsInitialize;
+import com.goldilion.app.R;
 import com.goldilion.startapp.interfaces.open.OnLoadOpenAppAdmob;
 import com.goldilion.startapp.interfaces.open.OnShowOpenAppAdmob;
-import com.aliendroid.sdkads.config.InitializeAlienAds;
+import com.goldilion.sdkads.config.InitializeAlienAds;
 
 @SuppressLint("CustomSplashScreen")
 public class SplashActivity extends AppCompatActivity {
@@ -33,7 +31,7 @@ public class SplashActivity extends AppCompatActivity {
         Initilize for Alien Mediation Ads
          */
         InitializeAlienAds.LoadSDK();
-        AndroAdsInitialize.SelectAdsApplovinMax(this,Select_Backup_Ads,Backup_Initialize);
+        AndroAdsInitialize.SelectAdsApplovinMax(this, Settings.Select_Backup_Ads, Settings.Backup_Initialize);
         if (Settings.Select_Open_Ads.equals("1")){
             AndroAdsOpenAds.LoadOpenAds("ca-app-pub-3940256099942544/3419835294",true);
             AndroAdsOpenAds.onLoadOpenAppAdmob = new OnLoadOpenAppAdmob() {

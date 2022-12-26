@@ -1,4 +1,4 @@
-package com.aliendroid.alienads;
+package com.goldilion.startapp;
 
 import android.app.Activity;
 import android.util.Log;
@@ -11,18 +11,17 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
-import com.aliendroid.alienads.interfaces.natives.OnLoadMediumNativesAdmob;
-import com.aliendroid.alienads.interfaces.natives.OnLoadMediumNativesAlien;
-import com.aliendroid.alienads.interfaces.natives.OnLoadMediumNativesApplovinMax;
-import com.aliendroid.alienads.interfaces.natives.OnLoadMediumNativesFacebook;
-import com.aliendroid.alienads.interfaces.natives.OnLoadMediumNativesStartApp;
-import com.aliendroid.alienads.interfaces.natives.OnLoadSmallNativesAdmob;
-import com.aliendroid.alienads.interfaces.natives.OnLoadSmallNativesAlien;
-import com.aliendroid.alienads.interfaces.natives.OnLoadSmallNativesApplovinMax;
-import com.aliendroid.alienads.interfaces.natives.OnLoadSmallNativesFacebook;
-import com.aliendroid.alienads.interfaces.natives.OnLoadSmallNativesStartApp;
+import com.goldilion.startapp.interfaces.natives.OnLoadMediumNativesAdmob;
+import com.goldilion.startapp.interfaces.natives.OnLoadMediumNativesAlien;
+import com.goldilion.startapp.interfaces.natives.OnLoadMediumNativesApplovinMax;
+import com.goldilion.startapp.interfaces.natives.OnLoadMediumNativesFacebook;
+import com.goldilion.startapp.interfaces.natives.OnLoadMediumNativesStartApp;
+import com.goldilion.startapp.interfaces.natives.OnLoadSmallNativesAdmob;
+import com.goldilion.startapp.interfaces.natives.OnLoadSmallNativesAlien;
+import com.goldilion.startapp.interfaces.natives.OnLoadSmallNativesApplovinMax;
+import com.goldilion.startapp.interfaces.natives.OnLoadSmallNativesFacebook;
+import com.goldilion.startapp.interfaces.natives.OnLoadSmallNativesStartApp;
 import com.bumptech.glide.Glide;
-
 
 import com.startapp.sdk.ads.nativead.NativeAdDetails;
 import com.startapp.sdk.ads.nativead.StartAppNativeAd;

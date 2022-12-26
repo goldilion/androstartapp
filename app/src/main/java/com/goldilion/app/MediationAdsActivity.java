@@ -1,16 +1,12 @@
-package com.goldilion.startapp;
+package com.goldilion.app;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 import android.view.View;
 
-import com.aliendroid.alienads.AliendroidIntertitial;
-import com.aliendroid.alienads.AliendroidReward;
-import com.aliendroid.alienads.interfaces.interstitial.show.OnShowInterstitialAdmob;
-import com.aliendroid.sdkads.config.AppPromote;
-import com.aliendroid.sdkads.config.InitializeAlienAds;
-import com.aliendroid.sdkads.type.mediation.AlienMediationAds;
+import com.goldilion.app.R;
+import com.goldilion.sdkads.type.mediation.AlienMediationAds;
 
 public class MediationAdsActivity extends AppCompatActivity {
 
